@@ -1,12 +1,12 @@
 const variable = () => {}
 // Declaring a variable to hold a person's name
-let name = "Vin";
+let name = "Kian";
 
 // Declaring a variable to hold a person's age
 let age = 30;
 
 // Declaring a variable to hold a person's job title
-let jobTitle = "Software Developer";
+let jobTitle = "IT Consultant";
 
 // Logging the variables to the console
 console.log("Name: " + name);
