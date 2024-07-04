@@ -1,0 +1,20 @@
+const variable = () => {}
+// Declaring a variable to hold a person's name
+let name = "Kian";
+
+// Declaring a variable to hold a person's age
+let age = 30;
+
+// Declaring a variable to hold a person's job title
+let jobTitle = "IT Consultant";
+
+// Logging the variables to the console
+console.log("Name: " + name);
+console.log("Age: " + age);
+console.log("Job Title: " + jobTitle);
+
+// Updating the age variable
+age = 20;
+
+// Logging the updated age to the console
+console.log("Updated Age: " + age);
